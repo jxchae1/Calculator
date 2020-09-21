@@ -1,0 +1,59 @@
+
+h1{
+  color: #2F2F37;
+  font-size: 50px;
+  text-align: center;
+  margin: 20px 20px 50px;
+}
+
+#output_container {
+  height: 100px;
+  align-items: flex-end;
+  display: flex;
+  background: #2F2F37;
+  margin: 0 3px;
+  padding: 0 7px;
+}
+
+#output{
+  width:100%;
+  text-align: right;
+  color: white;
+  font-size: 3em;
+  font-weight: 100;
+}
+
+
+.button{
+  width: 60px;
+  height: 60px;
+  margin: 3px;
+  background: white;
+  color: #34a26b;
+  font-weight: 600;
+  font-size: x-large;
+  border-style: none;
+  border-radius: 7px;
+}
+
+.operator{
+  background: #46C385;
+  color: white;
+}
+
+
+#reset{
+  width: 60px;
+  margin-bottom: 9px;
+  margin-top: 9px;
+  height: 40px;
+}
+
+.main{
+  border: 1px gray solid;
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+  background: gray;
+}
